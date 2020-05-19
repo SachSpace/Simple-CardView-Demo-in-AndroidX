@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Places</string>
+
+    <string name="pool_text">Pool</string>
+    <string name="beach_access_text">Beach Access</string>
+    <string name="fitness_center_text">Fitness Center</string>
+    <string name="food_text">Food</string>
+    <string name="spa_text">Spa</string>
+
+</resources>
